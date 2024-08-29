@@ -1,3 +1,3 @@
 # sctp-ce6-mod3.6-serverless-app
 
-Repo containing Serverless Node application deployment using `serverless`/`sls` command.
+Repository containing Serverless Node application deployment using `Serverless Framwork` (`serverless`/`sls` command).
