@@ -1,0 +1,25 @@
+{
+  "name": "sctp-ce6-mod3.6-serverless-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsanghan/sctp-ce6-mod3.6-serverless-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsanghan/sctp-ce6-mod3.6-serverless-app/issues"
+  },
+  "homepage": "https://github.com/tsanghan/sctp-ce6-mod3.6-serverless-app#readme",
+  "devDependencies": {
+    "serverless-offline": "^13.7.0"
+  },
+  "dependencies": {
+    "serverless": "^4.2.4"
+  }
+}
